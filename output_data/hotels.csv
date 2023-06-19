@@ -1,0 +1,600 @@
+City,Country,Lat,Lng,Humidity,Hotel Name
+kawambwa,ZM,-9.7915,29.0791,44,No hotel found
+saint-philippe,RE,-21.3585,55.7679,80,Le Baril
+olonkinbyen,SJ,70.9221,-8.7187,99,No hotel found
+alofi,NU,-19.0595,-169.9187,83,Matavai Resort
+pont rouge,CA,48.8833,-72.0825,82,No hotel found
+qaqortoq,GL,60.7167,-46.0333,96,Hotel Qaqortoq
+margaret river,AU,-33.95,115.0667,68,Margaret River Hotel
+vernon,CA,50.2581,-119.2691,52,Okanagan Royal Park Inn
+ribeira grande,PT,38.5167,-28.7,80,Hospedaria JSF - 3 Estrelas
+codrington,AU,-38.2667,141.9667,60,No hotel found
+port-aux-francais,TF,-49.35,70.2167,99,Keravel
+dunedin,NZ,-45.8742,170.5036,84,Scenic Hotel Dunedin City
+punta arenas,CL,-53.15,-70.9167,81,Hotel Lacolet
+grytviken,GS,-54.2811,-36.5092,88,No hotel found
+laguna,US,38.421,-121.4238,41,Holiday Inn Express & Suites
+adamstown,PN,-25.066,-130.1015,79,No hotel found
+at taj,LY,24.2049,23.2857,27,No hotel found
+hawaiian paradise park,US,19.5933,-154.9731,72,No hotel found
+amursk,RU,50.2261,136.8994,47,Центральная
+ust-nera,RU,64.5667,143.2,31,"гостиница ""Солнечная"""
+mil'kovo,RU,55.6078,37.7956,61,Дрозды
+georgetown,MY,5.4112,100.3354,89,Page 63 hostel
+blackmans bay,AU,-43.0167,147.3167,69,Villa Howden
+mount gambier,AU,-37.8333,140.7667,64,The Old Mount Gambier Gaol
+college,US,64.8569,-147.8028,42,BEST WESTERN PLUS Pioneer Park Inn
+iqaluit,CA,63.7506,-68.5145,75,Frobisher Inn
+puerto natales,CL,-51.7236,-72.4875,94,Dorotea Patagonia Hostel
+bilibino,RU,68.0546,166.4372,40,No hotel found
+persembe,TR,41.0656,37.7714,80,Hotel Dedeevi
+paraiso,CR,9.8383,-83.8656,87,Cabinas
+sao jose da coroa grande,BR,-8.8978,-35.1478,90,Hotel do Sol
+waitangi,NZ,-43.9535,-176.5597,79,Hotel Chathams
+albany,US,42.6001,-73.9662,84,No hotel found
+maragogi,BR,-9.0122,-35.2225,83,Pousada Mariluz
+tete,MZ,-16.1564,33.5867,87,Zambezi Hotel
+haiku-pauwela,US,20.9219,-156.3051,69,Inn At Mama's Fish House
+coyhaique,CL,-45.5752,-72.0662,86,No hotel found
+ketchikan,US,55.3422,-131.6461,70,Cape Fox Lodge
+jumla,NP,29.2747,82.1838,81,Amar Sandesh Guesthouse
+west island,CC,-12.1568,96.8225,83,Cocos Village Bungalows
+bredasdorp,ZA,-34.5322,20.0403,68,Victoria Hotel
+rouissat,DZ,31.9243,5.3502,18,فندق الأروي الذهبي
+noumea,NC,-22.2763,166.4572,99,Hotel Gondwana
+hamilton,US,39.1834,-84.5333,61,North Vista Manor
+kingston,JM,17.997,-76.7936,82,Aphrodite Hotel
+camarinas,ES,43.1311,-9.1817,91,O Parranda
+st. john's,CA,47.5649,-52.7093,94,Alt Hotel
+cabo san lucas,MX,22.8909,-109.9124,50,Comfort Rooms
+tahlequah,US,35.9154,-94.97,65,Days Inn & Suites by Wyndham Tahlequah
+vadso,NO,70.0744,29.7487,100,Scandic Vadsø
+carnarvon,AU,-24.8667,113.6333,90,No hotel found
+amos,CA,48.5669,-78.1162,67,Hôtel des Eskers
+masaka,UG,-0.3338,31.7341,86,Golf Lane Hotel
+remire-montjoly,GF,4.9167,-52.2667,94,Complexe Belova
+lipovtsy,RU,44.2014,131.7244,46,No hotel found
+laboulaye,AR,-34.1266,-63.3912,72,Hotel Plaza
+bosaso,SO,11.2842,49.1816,63,Bosaso hotel
+edinburgh of the seven seas,SH,-37.0676,-12.3116,85,No hotel found
+udachny,RU,66.4167,112.4,66,Вилюй
+thinadhoo,MV,0.5333,72.9333,73,No hotel found
+kerikeri,NZ,-35.2268,173.9474,77,Avalon Resort
+saipan,MP,15.1355,145.701,100,Chalan Kanoa Beach Hotel
+crane,US,31.3974,-102.3501,10,No hotel found
+kulhudhuffushi,MV,6.6221,73.07,76,No hotel found
+yellowknife,CA,62.456,-114.3525,41,No hotel found
+vilyuchinsk,RU,52.9306,158.4028,94,Победа
+sao joao da barra,BR,-21.6403,-41.0511,71,Pousada Mediterrâneo
+harrisonville,US,38.6533,-94.3488,69,Knights Inn Harrisonville
+weno,FM,7.4515,151.8468,77,High Tide Hotel
+papatowai,NZ,-46.5619,169.4708,75,No hotel found
+el calafate,AR,-50.3408,-72.2768,67,Hostería Las Avutardas
+verneuil-sur-avre,FR,48.7395,0.9273,95,Hôtel-Restaurant Le Saumon
+bhachau,IN,23.2833,70.35,73,No hotel found
+uturoa,PF,-16.7333,-151.4333,73,Hawaiki Nui hotel
+lebu,CL,-37.6167,-73.65,77,No hotel found
+utrik,MH,11.2278,169.8474,74,No hotel found
+dolores,AR,-36.3132,-57.6792,65,Plaza Hotel
+bad bevensen,DE,53.0833,10.5833,59,Parkhotel Bad Bevensen
+ancud,CL,-41.8697,-73.8203,63,Cabañas
+sao tome,ST,0.3365,6.7273,81,Hotel Baia
+tiksi,RU,71.6872,128.8694,60,Арктика
+deqen,CN,29.9618,90.7188,95,No hotel found
+yermentau,KZ,51.6214,73.1069,45,Достык
+puerto real,ES,36.5282,-6.1901,88,Hostal Bahía de Cádiz
+stanley,GB,54.868,-1.6985,94,Hotel 52
+kabo,CF,7.6994,18.629,97,No hotel found
+mejit,MH,10.2753,170.8646,76,No hotel found
+cururupu,BR,-1.8283,-44.8683,98,No hotel found
+isafjordur,IS,66.0755,-23.124,76,Hótel Horn
+labytnangi,RU,66.6572,66.4183,73,Семь лиственниц
+keren,ER,15.7778,38.4581,57,Eritrea Hotel قندق إرتريا
+muisne,EC,0.6,-80.0333,87,Hostal Té de Menta
+lahij,YE,13.1667,44.5833,47,No hotel found
+tshela,CD,-4.9833,12.9333,97,No hotel found
+kalabo,ZM,-14.97,22.6814,37,Golden Lodge Luxury Acomodation
+ilulissat,GL,69.2167,-51.1,75,Best Western Plus Hotel Ilulissat
+hadibu,YE,12.65,54.0333,81,No hotel found
+suva,FJ,-18.1416,178.4415,65,Extension 68
+mikumi,TZ,-7.4041,36.9831,89,VETA Guest House
+kamenica,DE,50.8333,12.9167,78,Dorint Kongresshotel Chemnitz
+hermanus,ZA,-34.4187,19.2345,90,Aloe guest house
+mogocha,RU,53.7333,119.7667,94,7Ka
+kirakira,SB,-10.4544,161.9205,81,No hotel found
+san patricio,US,28.017,-97.5169,82,No hotel found
+oum hadjer,TD,13.2954,19.6966,30,No hotel found
+ylitornio,FI,66.3089,23.6773,75,Lomakeskus Karemajat
+ushuaia,AR,-54.8,-68.3,69,Apart Hotel Aires del Beagle
+andergrove,AU,-21.0833,149.1833,72,No hotel found
+birnin kudu,NG,11.4459,9.4984,54,No hotel found
+badger,US,64.8,-147.5333,44,Hotel North Pole
+darwin,AU,-12.4611,130.8418,54,Mantra Pantanas Darwin
+iskateley,RU,67.6803,53.1512,72,Авантаж
+taro,ID,-8.3862,115.28,41,Padma Resort Ubud
+dudinka,RU,69.4058,86.1778,99,Виктория
+adrar,MR,20.5022,-10.0711,14,No hotel found
+wailua homesteads,US,22.0669,-159.378,68,Hilton Garden Inn Kauai Wailua Bay
+kodiak,US,57.79,-152.4072,62,Shelikof Lodge
+ballycastle,GB,55.2044,-6.243,93,Marine Hotel
+borogontsy,RU,62.6683,131.1683,43,No hotel found
+howrah,IN,22.5892,88.3103,89,Sun India Guest House
+ola,RU,59.5833,151.2833,81,No hotel found
+buka,UZ,40.8108,69.1986,27,No hotel found
+nabire,ID,-3.3667,135.4833,71,Hotel Anggrek
+bethel,US,41.3712,-73.414,77,Hampton Inn Danbury
+newman,US,37.3138,-121.0208,42,No hotel found
+birobidzhan,RU,48.8,132.95,53,Мини-гостиница
+howard springs,AU,-12.497,131.047,45,No hotel found
+taroa,MH,8.7058,171.2275,76,No hotel found
+labrador city,CA,52.9463,-66.9114,71,Carol Inn
+hit,IQ,33.6416,42.8251,30,No hotel found
+fort st. john,CA,56.2499,-120.8529,55,Fort St. John Motor Inn
+nova vicosa,BR,-17.8919,-39.3719,85,Pousada Pontal da Barra
+port victoria,KE,0.0939,33.9756,81,No hotel found
+carutapera,BR,-1.195,-46.02,94,No hotel found
+puerto ayora,EC,-0.7393,-90.3518,92,Hostal La Mirada De Solitario George
+ziar nad hronom,SK,48.5918,18.8496,84,Relax Thermal
+afaahiti,PF,-17.75,-149.2833,75,Omati Lodge
+perugorria,AR,-29.3413,-58.6106,82,No hotel found
+chhor,PK,25.5167,69.7667,74,No hotel found
+karratha,AU,-20.7377,116.8463,85,Karratha International Hotel
+queenstown,ZA,-31.8976,26.8753,43,Queens Hotel
+las palmas,ES,28.4204,-14.0131,73,Era de La Corte
+brookings,US,44.3114,-96.7984,61,Quality Inn
+longyearbyen,SJ,78.2186,15.6401,93,The Vault
+idri,LY,27.5,13.2667,21,No hotel found
+mariana,BR,-20.3778,-43.4161,97,Hotel Müller
+atafu village,TK,-8.5421,-172.5159,73,No hotel found
+naze,JP,28.3667,129.4833,93,ビジネス旅館畠山
+cole harbour,CA,44.6724,-63.4751,97,Hearthstone Inn Boutique Hotel Dartmouth/Halifax
+benguela,AO,-12.5763,13.4055,87,Hotel Moibela
+port mathurin,MU,-19.6833,63.4167,58,Escale Vacances
+island harbour,GB,50.724,-1.2758,94,Premier Inn
+susangerd,IR,31.5608,48.1831,19,No hotel found
+las tablas,PA,7.7667,-80.2833,85,Hotel Don Jesus
+muravlenko,RU,63.7898,74.523,76,Е-Отель
+sovetskaya gavan',RU,48.9723,140.2878,67,Гостинный Двор
+puerto deseado,AR,-47.7503,-65.8938,53,Los Olmos
+ahiri,IN,19.4,80.0167,41,No hotel found
+ostersund,SE,63.1792,14.6357,31,Hotell Stortorget
+gadzhiyevo,RU,69.2551,33.3362,86,Оазис
+homer,US,59.6425,-151.5483,68,Driftwood Inn & Homer Seaside Lodges
+inari,FI,68.906,27.0288,69,Villa Lanca
+vorgashor,RU,67.5833,63.95,99,София
+whitehorse,CA,60.7161,-135.0538,45,Town & Mountain Hotel
+sergeyevka,KZ,53.88,67.4158,86,"Гостиница ""Шанырак"""
+merowe,SD,18.4833,31.8167,11,Merowe Land
+lompoc,US,34.6391,-120.4579,83,Embassy Suites by Hilton Lompoc Central Coast
+happy valley-goose bay,CA,53.3168,-60.3315,57,Hotel North Two
+santiago de cao,PE,-7.9589,-79.2392,88,Hostal El Encanto
+thompson,CA,55.7435,-97.8558,78,Thompson Inn
+bocas del toro,PA,9.3333,-82.25,87,B&B Surfari
+keflavik,IS,64.0049,-22.5624,87,Núpan Deluxe
+tazovsky,RU,67.4667,78.7,97,Тазовчанка
+manavalakurichi,IN,8.1333,77.3,79,No hotel found
+kokologo,BF,12.1897,-1.8856,60,No hotel found
+nagqu,CN,31.5,92.0,64,Naqu Hotel
+fort bragg,US,35.139,-79.006,63,Airborne Inn Lodging
+smithers,CA,54.7804,-127.1743,58,Sunshine Inn Hotel
+alaghsas,NE,17.0187,8.0168,18,Hôtel Zagado
+itaperuna,BR,-21.205,-41.8878,90,Top Center
+nova sintra,CV,14.8667,-24.7167,84,Residência Ka Dencho
+knyaze-volkonskoye,RU,48.4642,135.4567,57,No hotel found
+san martin,AR,-33.081,-68.4681,56,Hotel Lacava
+tavira,PT,37.1273,-7.6486,62,Residencial Princesa do Gilao
+guajara mirim,BR,-10.7828,-65.3394,82,Hotel Gaúcha
+totness,SR,5.8833,-56.3167,91,No hotel found
+santa marta,CO,11.2408,-74.199,76,Casa Mita
+dwarka,IN,22.2394,68.9678,75,The Dwarika Hotel
+middelburg,ZA,-25.7751,29.4648,36,No hotel found
+mugia,ES,43.1041,-9.2179,93,Solpor do Coído
+micheweni,TZ,-4.9667,39.8333,81,No hotel found
+zheleznogorsk-ilimskiy,RU,56.5768,104.1217,96,Магнетит
+suhbaatar,MN,50.2314,106.2078,51,Selenge Hotel
+klyuchi,RU,52.2667,79.1667,49,No hotel found
+huarmey,PE,-10.0681,-78.1522,83,Hostal Santa Rosa
+el bauga,SD,18.262,33.9081,23,No hotel found
+kitui,KE,-1.367,38.0106,94,Parkside Hotel
+ghadamis,LY,30.1337,9.5007,14,فندق عين الفارس
+la passe,FR,45.5549,-0.8967,92,L'Estuaire
+invercargill,NZ,-46.4,168.35,70,The Grand
+zhangjiakou,CN,40.81,114.8794,85,商务宾馆
+playa del ingles,ES,27.7567,-15.5787,83,Apartamentos Barbados
+fernie,CA,49.5,-115.0687,65,Royal Hotel
+villa gesell,AR,-37.2639,-56.973,78,Hotel El Faro
+sint michiel liber,CW,12.15,-68.9833,83,Blue Bay Lodges
+caleta de carquin,PE,-11.0925,-77.6267,82,Hotel Mi Choacan
+sakakah,SA,29.9697,40.2064,21,فندق النزل
+chonchi,CL,-42.6128,-73.8092,86,Hotel Huildín
+amanpur,IN,27.7167,78.75,47,No hotel found
+oke ila,NG,7.951,4.9883,99,No hotel found
+priargunsk,RU,50.3691,119.1012,82,No hotel found
+tehri,IN,30.3833,78.4833,46,Hotel Bhagirathi Darshan
+forster,AU,-32.1667,152.5167,43,No hotel found
+chiras,AF,35.4167,65.9823,27,No hotel found
+rikaze,CN,29.25,88.8833,61,Gesar Hotel
+vyazemskiy,RU,47.5378,134.7525,50,Гостиница
+ghat,LY,24.9647,10.1728,20,فندق تاسيلي
+enewetak,MH,11.3474,162.3373,78,No hotel found
+tura,IN,25.5198,90.2201,97,No hotel found
+dodola,ET,6.9833,39.1833,89,No hotel found
+susuman,RU,62.7833,148.1667,40,No hotel found
+anadyr,RU,64.75,177.4833,39,Гостевой дом
+angaur state,PW,6.906,134.13,73,No hotel found
+uliastay,MN,47.7417,96.8444,33,Болоржин зочид буудал
+port elizabeth,ZA,-33.918,25.5701,94,Waterford Hotel
+beshariq,UZ,40.4358,70.6103,30,No hotel found
+bridlington,GB,54.0831,-0.1919,95,Brunswick Hotel
+vila velha,BR,-20.3297,-40.2925,84,Hotel Prainha
+arraial do cabo,BR,-22.9661,-42.0278,74,No hotel found
+aykhal,RU,66.0,111.5,54,Уют
+castillos,UY,-34.1667,-53.8333,92,A mi gente
+talnakh,RU,69.4865,88.3972,99,Талнах
+hammerfest,NO,70.6634,23.6821,71,Thon Hotel Hammerfest
+puerto armuelles,PA,8.2833,-82.8667,74,Coco del Mar
+ma'rib,YE,15.4591,45.3253,28,No hotel found
+ponta delgada,PT,37.7333,-25.6667,94,Hotel Talisman
+bhamo,MM,24.2667,97.2333,88,Winlight Hotel
+rio grande,BR,-32.035,-52.0986,72,Hotel Vila Moura Executivo
+dalnerechensk,RU,45.9339,133.7225,54,Центральная
+saint-tropez,FR,43.2693,6.6398,90,No hotel found
+polyarnyy,RU,69.1989,33.4478,88,No hotel found
+ofunato,JP,39.0717,141.7167,62,No hotel found
+ar ruways,AE,24.1103,52.7306,67,No hotel found
+altus,US,34.6381,-99.334,45,Days Inn by Wyndham Altus
+qamdo,CN,31.1667,97.2333,69,银杏商务宾馆
+hasaki,JP,35.7333,140.8333,72,大新旅館
+isfahan,IR,32.6572,51.6776,12,هتل فیروزه
+diapaga,BF,12.0708,1.7889,62,Le Gacilien
+tsiombe,MG,-25.3,45.4833,79,No hotel found
+port lincoln,AU,-34.7333,135.8667,54,Boston Hotel
+tianshui,CN,34.5439,105.6897,49,丽都假日酒店
+calama,CL,-22.4667,-68.9333,18,Apart Hotel Geotel Calama
+ranot,TH,7.7777,100.3213,75,Tarin Hotel
+centerport,US,40.8854,-73.3762,72,Hampton Inn & Suites Huntington Downtown
+lincoln,US,40.8,-96.667,75,New Victorian Suites Lincoln
+umarkot,PK,25.3616,69.7362,75,No hotel found
+santa terezinha,BR,-29.9002,-50.0904,76,Center Hotel
+sovetskiy,RU,61.3614,63.5842,52,Кировская
+lubao,PH,14.9167,120.55,65,Hacienda de Gracia Resort
+tefe,BR,-3.3542,-64.7114,95,Pousada Santa Teresa
+xilin hot,CN,43.9667,116.0333,62,Hotel hailibu 120
+jayapura,ID,-2.5333,140.7,80,Hotel Jasmine Jayapura
+ta`u,AS,-14.2336,-169.5144,79,No hotel found
+geraldton,AU,-28.7667,114.6,66,Ocean Centre Hotel
+luderitz,,-26.6481,15.1594,83,Seaview Hotel Zum Sperrgebiet
+westport,US,41.1415,-73.3579,72,Norwalk Inn and Conference Center
+nelson,NZ,-41.2833,173.2833,85,Skylight Villa
+fale old settlement,TK,-9.3852,-171.2468,71,No hotel found
+petropavlovsk-kamchatsky,RU,53.0452,158.6483,93,ООО Постоялый двор
+marquette,US,46.5333,-87.6335,71,No hotel found
+armacao de buzios,BR,-22.7469,-41.8817,88,Vila da Santa
+kapuskasing,CA,49.4169,-82.4331,38,Travelodge
+rongelap,MH,11.1635,166.8941,76,No hotel found
+ambon,ID,-3.6954,128.1814,82,Hotel Hero
+mermoz boabab,SN,14.7065,-17.4758,78,Le Shéhérazade
+kharabali,RU,47.4196,47.2568,53,No hotel found
+dahab,EG,28.501,34.5134,45,Lighthouse Hotel
+minas de marcona,PE,-15.2119,-75.1103,84,No hotel found
+laixi,CN,36.8592,120.5269,41,豪邦度假村
+north bend,US,43.4065,-124.2243,72,The Mill Casino Hotel
+avarua,CK,-21.2078,-159.775,89,Paradise Inn
+leh,IN,34.1667,77.5833,41,Kang Lha Chen
+tahe,CN,52.3333,124.7333,47,No hotel found
+shalqar,KZ,47.8333,59.6,69,Бекнур
+tofol,FM,5.3248,163.0078,83,Nautilus Resort
+nogliki,RU,51.8333,143.1667,79,Ноглики
+okhotsk,RU,59.3833,143.3,71,No hotel found
+khandyga,RU,62.6667,135.6,31,Апельсин
+tazacorte,ES,28.629,-17.9293,93,App Leyma
+san antonio de pale,GQ,-1.4014,5.6325,84,No hotel found
+lashio,MM,22.9333,97.75,94,Golden Kaniri Hotel
+punta alta,AR,-38.8759,-62.0736,67,Gran Hotel
+nova olinda do norte,BR,-3.8881,-59.0942,91,No hotel found
+marsh harbour,BS,26.5412,-77.0636,74,Lofty Fig Villas
+jamestown,US,42.097,-79.2353,52,DoubleTree Jamestown
+parauapebas,BR,-6.0675,-49.9022,81,Hotel Igarapé
+rio gallegos,AR,-51.6226,-69.2181,69,Amérian Río Gallegos Apart & Suites
+yarmouth,US,41.7057,-70.2286,87,The Inn At Cape Cod
+walvis bay,,-22.9575,14.5053,93,Atlantic
+kambove,CD,-10.8764,26.5969,54,No hotel found
+dali,CN,25.7,100.1833,73,风花雪月大酒店
+kirensk,RU,57.7853,108.1119,49,Ивушка
+kone,NC,-21.0595,164.8658,57,Pacifik Appartels
+borovskoy,KZ,53.8,64.15,96,Маржан
+vila do maio,CV,15.1333,-23.2167,88,Residencial Jardins De Maio
+yugorsk,RU,61.3133,63.3319,52,Студенческая
+al badari,EG,26.9926,31.4155,38,No hotel found
+srivardhan,IN,18.0333,73.0167,79,No hotel found
+aleksandrovsk,RU,59.158,57.5624,87,Александровск
+el nido,PH,11.1858,119.3956,70,Dragonfly
+tenno,JP,39.9,139.9667,62,男鹿の屋
+porto novo,BJ,6.4965,2.6036,88,Hôtel 6500 CFA
+saudarkrokur,IS,65.7461,-19.6394,99,Mikligarður
+christchurch,NZ,-43.5333,172.6333,89,Ibis Hotel Christchurch
+aitape,PG,-3.1374,142.3475,79,No hotel found
+taoudenni,ML,22.6783,-3.9836,9,No hotel found
+yung shue wan,HK,22.2333,114.1167,80,浪濤軒酒店 Concerto Inn
+sinop,TR,41.7711,34.8709,88,No hotel found
+boiling springs,US,35.0465,-81.9818,67,Days Inn by Wyndham Spartanburg
+santana,BR,-0.0583,-51.1817,94,Hotel Teodoro
+tolanaro,MG,-25.0319,46.9987,68,Hôtel Mahavokey
+hithadhoo,MV,-0.6,73.0833,71,Pebbles Inn
+ilhabela,BR,-23.7781,-45.3581,86,Vila Kebaya
+urzhum,RU,57.1141,49.9996,72,No hotel found
+hailar,CN,49.2,119.7,49,呼伦贝尔融府商务酒店
+itoman,JP,26.1247,127.6694,89,No hotel found
+buala,SB,-8.145,159.5921,74,No hotel found
+lihue,US,21.9789,-159.3672,68,Kauai Palms
+pedernales,DO,18.0384,-71.744,70,Hostal Doña Chava
+lucea,JM,18.451,-78.1736,78,Blue Paloma Bed And Breakfast
+ishigaki,JP,24.3448,124.1572,84,アートホテル石垣島
+mount pearl,CA,47.5166,-52.7813,95,Sandman Signature St. John's
+usinsk,RU,65.9939,57.5281,73,общежитие Лукойл-Коми
+slave lake,CA,55.2834,-114.769,87,Northwest Inn
+wewak,PG,-3.5534,143.6268,79,Village Inn
+new norfolk,AU,-42.7826,147.0587,60,Woodbridge on the Derwent
+east london,ZA,-33.0153,27.9116,40,No hotel found
+puerto aysen,CL,-45.4,-72.7,98,Hostal Dendal
+aasiaat,GL,68.7098,-52.8699,80,SØMA
+zorritos,PE,-3.6805,-80.6782,77,Hostal Zorritos Plaza
+nar'yan-mar,RU,67.6713,53.087,72,"Гостиница ""Агат"""
+olyokminsk,RU,60.3736,120.4264,93,Колос
+broken hill,AU,-31.95,141.4333,51,Ibis Styles
+tambo,PE,-14.8,-73.9167,49,No hotel found
+araguaina,BR,-7.1911,-48.2072,55,No hotel found
+al mijlad,SD,11.0333,27.7333,59,No hotel found
+alice springs,AU,-23.7,133.8833,40,Aurora Alice Springs
+akrehamn,NO,59.2667,5.1833,88,Park Inn Haugesund Airport
+boundiali,CI,9.5217,-6.4869,88,No hotel found
+yanam,IN,16.7333,82.2167,74,No hotel found
+ciudad lazaro cardenas,MX,17.9583,-102.2,81,Hotel Sol del Pacífico
+mbekenyera,TZ,-10.0,38.9833,96,No hotel found
+marica,BR,-22.9194,-42.8186,77,Pousada Vila Flor
+mansalay,PH,12.5167,121.4,69,No hotel found
+fortuna,US,40.5982,-124.1573,69,Comfort Inn & Suites Redwood Country
+heniches'k,UA,46.1759,34.8034,76,Орхідея
+farmville,US,37.3021,-78.3919,72,Hotel Weyanoke
+ephraim,US,39.3597,-111.5863,37,Willow Creek Inn
+bardai,NG,11.65,7.2333,68,No hotel found
+malango,ID,-2.9627,119.9001,63,Madarana
+namibe,AO,-15.1961,12.1522,80,Hotel Chik Chik Namibe
+puerto escondido,MX,15.85,-97.0667,82,Hotel Barlovento
+waingapu,ID,-9.6567,120.2641,64,HOTEL SANDLEWOOD
+sechura,PE,-5.5569,-80.8222,73,Hospedaje Claritza
+starodub,RU,52.5844,32.7633,92,"Гостиница ""Заря"""
+matadi,CD,-5.8167,13.45,95,Hôtel Métroplole
+portland,US,45.5234,-122.6762,89,the Hoxton
+chaparral,CO,3.7232,-75.4832,67,Europa
+pangoa,PE,-12.1167,-73.0,89,No hotel found
+prince rupert,CA,54.3161,-130.3201,77,Crest Hotel
+tual,ID,-5.6667,132.75,79,Suita
+oneonta,US,42.4529,-75.0638,88,Courtyard by Marriott Oneonta
+igrim,RU,63.1906,64.4162,55,Факел
+marsassoum,SN,12.8275,-15.9806,83,No hotel found
+mlowo,TZ,-9.0,32.9833,80,EAST AFRICA LODGE
+byron bay,AU,-28.65,153.6167,36,Lord Byron Resort
+alto piquiri,BR,-24.0281,-53.4406,89,No hotel found
+razdol'noye,UA,45.7708,33.4878,89,Портовое
+tadmur,SY,34.5608,38.2805,67,فندق فيلا بالميرا
+gazi,GR,35.3253,25.0669,76,Manos Studios Hotel
+serhetabat,TM,35.2799,62.3438,30,No hotel found
+broome,US,42.2506,-75.833,87,No hotel found
+sanctuary point,AU,-35.1114,150.629,41,Dungowan Accommodation
+myitkyina,MM,25.3833,97.4,85,New Light Hotel
+lucapa,AO,-8.4192,20.7447,36,No hotel found
+puerto quijarro,BO,-17.7833,-57.7667,76,No hotel found
+fandriana,MG,-20.2333,47.3833,95,Hotel Sariaka
+touros,BR,-5.1989,-35.4608,90,Pousada Atlântico
+chipinge,ZW,-20.1883,32.6236,47,No hotel found
+tondano,ID,1.3038,124.9112,89,Hotel Tou Dano
+san juan bautista,PE,-14.0108,-75.7358,64,Hacienda San Juan Resort & Spa
+ocean shores,US,46.9737,-124.1563,73,Collins Inn & Seaside Cottages
+neiafu,TO,-18.65,-173.9833,69,Port Wine Guest House
+thabazimbi,ZA,-24.5917,27.4116,30,Maroela Guest Lodge
+arkalyk,KZ,50.2486,66.9114,43,"Гостиница ""Арсенал"""
+garbahaarrey,SO,3.3289,42.2209,77,No hotel found
+mariental,,-24.6333,17.9667,24,Mariental Hotel
+cabedelo,BR,-6.9811,-34.8339,83,No hotel found
+najaf,IQ,31.9985,44.3398,25,مديرية مجاري النجف
+east ballina,AU,-28.8667,153.5833,42,Ballina Beach Resort
+ixtapa,MX,20.7,-105.2,67,Ma. Cristina
+aoulef,DZ,26.9667,1.0833,9,دار الضياف
+bel air riviere seche,MU,-20.2542,57.7453,60,Otentic Eco Tent Experience
+mombaca,BR,-5.7431,-39.6275,74,No hotel found
+akhuryan,AM,40.78,43.9003,93,"""Golden Apricot"" Hotel"
+pacific grove,US,36.6177,-121.9166,76,Pacific Grove Inn
+katsuura,JP,35.1333,140.3,73,潮騒の宿
+nuku'alofa,TO,-21.1333,-175.2,61,City Hotel
+grand-lahou,CI,5.1367,-5.0242,87,Cap Lahou
+nakamura,JP,32.9833,132.9333,53,ホテル アイランド
+domna,RU,51.8971,113.1573,45,Гостиница-Общежитие № 1
+suez,EG,29.9737,32.5263,70,فندق لوسيندا
+joshimath,IN,30.5667,79.5667,67,Snow Crest Hotel
+taltal,CL,-25.4,-70.4833,82,Hostería Taltal
+kananga,CD,-5.8958,22.4178,44,Hôtel Résidence
+loukhi,RU,66.0764,33.0381,80,Северяночка
+inirida,CO,3.8653,-67.9239,99,Residencias El Turista del Guainia
+aljezur,PT,37.3191,-8.8033,95,Vicentina Hotel
+estevan,CA,49.1334,-102.9842,41,Days Inn
+minot air force base,US,48.4209,-101.3391,62,No hotel found
+suwayr,SA,30.1171,40.3893,21,No hotel found
+el matama,SD,16.7095,33.3565,50,الكوثر
+chernyshevsk,RU,52.5243,117.0174,62,Карина
+katsuren-haebaru,JP,26.3369,127.8719,83,No hotel found
+brokopondo,SR,4.75,-55.1667,89,No hotel found
+guerrero negro,MX,27.9769,-114.0611,75,Plaza sal paraiso
+acapulco de juarez,MX,16.8634,-99.8901,76,Hotel del Valle
+aginskoye,RU,51.1,114.53,46,No hotel found
+sumbawa besar,ID,-8.5,117.4333,52,Hotel Mekarsari
+salinopolis,BR,-0.6136,-47.3561,85,Hotel Salinópolis
+shihezi,CN,44.3,86.0333,21,石河子宾馆
+egilsstadir,IS,65.2653,-14.3948,81,Valaskjálf
+zaozersk,RU,69.4005,32.4476,86,Северное сияние
+lagoa,PT,39.05,-27.9833,85,Casa da Madrinha
+nuuk,GL,64.1835,-51.7216,70,Nordbo
+kudahuvadhoo,MV,2.6708,72.8944,75,Hotel Riu Palace Maldivas
+severo-yeniseyskiy,RU,60.3725,93.0408,43,Актолик
+kefamenanu,ID,-9.4467,124.4781,58,Hotel Setangkai
+tobruk,LY,32.0836,23.9764,82,فندق زهرة البطنان -طبرق
+worrstadt,DE,49.8486,8.1242,77,Hotel Wasseruhr
+sisimiut,GL,66.9395,-53.6735,61,Sømandshjemmet
+la sarre,CA,48.8002,-79.1996,78,No hotel found
+mut,TR,36.6439,33.4389,81,Deveci Otel
+gevas,TR,38.2968,43.1083,56,No hotel found
+awjilah,LY,29.1081,21.2869,47,No hotel found
+nemuro,JP,43.3236,145.575,85,イーストハーバーホテル
+hami,CN,42.8,93.45,6,Хами
+la foa,NC,-21.7108,165.8276,52,Oasis de Tendea
+warrnambool,AU,-38.3833,142.4833,63,Central Court
+lethem,GY,3.3803,-59.7968,88,Hotel Amazonas
+camiri,BO,-20.05,-63.5167,74,Sol Chaqueño
+conakry,GN,9.538,-13.6773,89,Hotel del Fanta (sleazy but rooms for 100k or even less)
+aripuana,BR,-9.1667,-60.6333,72,No hotel found
+gao,ML,16.6362,1.637,26,No hotel found
+posse,BR,-14.0931,-46.3694,48,Palmeiras Hotel
+la ferte-bernard,FR,48.1863,0.6536,95,Le stade
+al hasakah,SY,36.5024,40.7477,55,فندق السنابل
+al mishkhab,IQ,31.8042,44.4911,23,خال رسول
+vershino-darasunskiy,RU,52.35,115.5167,52,No hotel found
+pandan,PH,14.0453,124.1694,72,No hotel found
+port alfred,ZA,-33.5906,26.891,59,No hotel found
+hutchinson,US,38.0608,-97.9298,50,Fairfield Inn & Suites by Marriott
+midvagur,FO,62.0511,-7.1939,93,Hotel Vágar
+stolin,BY,51.8912,26.846,97,Гарынь
+manicore,BR,-5.8092,-61.3003,77,No hotel found
+lorengau,PG,-2.0226,147.2712,86,Seeadler Bay Hotel
+kapshagay,KZ,43.8833,77.0833,32,Казино Ривиера
+mega,ET,4.05,38.3,91,No hotel found
+syktyvkar,RU,61.6764,50.8099,76,Гостиница KHOL.IN
+itoigawa,JP,37.0333,137.85,75,たつみ旅館
+lamia,GR,38.9,22.4333,80,HOTEL Νέον Άστρον
+juneau,US,58.3019,-134.4197,100,Ramada by Wyndham Juneau
+la'ie,US,21.6477,-157.9253,65,Courtyard by Marriott
+kyzyl-suu,KG,42.3414,78.0056,64,кафе суусая
+ribeira brava,PT,32.65,-17.0667,78,Cheerfulway Bravamar Hotel
+niafunke,ML,15.9322,-3.9906,34,No hotel found
+svetlyy,RU,54.675,20.1347,91,Гостиница Спортивная
+fada,NG,9.5667,8.3,95,No hotel found
+olinda,BR,-8.0089,-34.8553,88,Fidji Motel
+pompeia,BR,-22.1086,-50.1717,86,Hotel Pousada Vale do Sol
+umm kaddadah,SD,13.6017,26.6876,53,No hotel found
+swakopmund,,-22.6833,14.5333,90,Amanpuri Travellers Lodge
+fuglafjordur,FO,62.244,-6.814,94,No hotel found
+rondonopolis,BR,-16.4708,-54.6356,75,Hotel Sumaré
+taksimo,RU,56.3444,114.8794,54,No hotel found
+kencong,ID,-8.2833,113.3667,59,Grand Gumuk Mas Hotel
+dauphin,CA,51.1494,-100.0502,41,No hotel found
+puerto cabezas,NI,14.0351,-83.3888,95,Hotel Caribe
+masuguru,TZ,-11.3667,38.4167,92,No hotel found
+kumylzhenskaya,RU,49.8809,42.5898,80,No hotel found
+coquimbo,CL,-29.9533,-71.3436,76,Hotel Iberia
+san pedro del parana,PY,-26.8333,-56.2,86,No hotel found
+siwa oasis,EG,29.2041,25.5195,49,فندق الكيلانى
+visegrad,BA,43.7847,19.2992,94,Andrićev konak
+dawson creek,CA,55.7666,-120.2362,71,Comfort Inn
+pandaria,IN,22.2333,81.4167,31,No hotel found
+antsiranana,MG,-12.2787,49.2917,76,Central
+beledweyne,SO,4.7358,45.2036,79,Hotel Medina
+eiterfeld,DE,50.7667,9.8,56,Meissmers
+mutuali,MZ,-14.8706,37.0044,76,No hotel found
+sitka,US,57.0531,-135.33,56,Aspen Suites Hotel
+juticalpa,HN,14.65,-86.2,95,No hotel found
+atasu,KZ,48.6814,71.6433,33,Диана
+les cayes,HT,18.2,-73.75,84,No hotel found
+kill devil hills,US,36.0307,-75.676,71,Mariner Days Inn & Suites
+freetown,SL,8.484,-13.2299,83,Formal Leona hotel
+san andres,CO,12.5847,-81.7006,89,Hotel Decameron Isleño
+mato verde,BR,-15.3972,-42.8664,74,No hotel found
+ngereklmadel,PW,7.4883,134.4856,78,No hotel found
+khanty-mansiysk,RU,61.0042,69.0019,66,Гамма
+colonia,DE,50.9333,6.95,74,Wasserturm Hotel Cologne
+perm,RU,58.0174,56.2855,81,Спутник
+garoowe,SO,8.4054,48.4845,66,Red Sea
+mahdia,TN,35.5047,11.0622,65,La Maison Bleue
+boone,US,39.0334,-92.3335,86,Welcome Inn
+whakatane,NZ,-37.9585,176.9854,75,Whakatane Hotel
+margate,GB,51.3813,1.3862,94,The Reading Rooms
+matoury,GF,4.8483,-52.3317,94,La Marmotte
+yuzhno-kurilsk,RU,44.0306,145.8556,86,Dom Druzhby
+palmas de monte alto,BR,-14.2672,-43.1619,48,No hotel found
+berezovyy,RU,51.6667,135.7,30,No hotel found
+tandalti,SD,13.0167,31.8667,60,No hotel found
+marsa alam,EG,25.0757,34.8918,45,Blue House Hotel
+cidade velha,CV,14.9167,-23.6167,78,Encosta Azul
+sirte,LY,31.2089,16.5887,70,فندق المدينة-سرت
+ankang,CN,32.68,109.0172,76,金友商务酒店
+holualoa,US,19.6228,-155.9522,82,Kona Hotel
+tidjikja,MR,18.5564,-11.4271,28,No hotel found
+kalmunai,LK,7.4167,81.8167,78,Saji new food
+kavieng,PG,-2.5744,150.7967,71,Kavieng Hotel
+katra,IN,32.9833,74.95,72,HOTEL OM HARI RESIDENCY
+suntar,RU,62.1444,117.6319,56,No hotel found
+bhakkar,PK,31.6253,71.0657,32,No hotel found
+kosciusko,US,33.0576,-89.5876,96,President's Inn
+san luis de la loma,MX,17.2706,-100.8939,78,No hotel found
+monteagudo,BO,-19.8167,-63.9833,81,Residencial San José
+praia da vitoria,PT,38.7333,-27.0667,100,Salles
+saldanha,ZA,-33.0117,17.9442,81,Hoedjesbaai
+thomson,US,33.4707,-82.5046,84,Days Inn by Wyndham Thomson
+rupert,US,42.6191,-113.6772,41,No hotel found
+refahiye,TR,39.9008,38.7667,85,Esadaş Otel
+conde,BR,-7.2597,-34.9075,100,Paladino
+pirallahi,AZ,40.4723,50.333,83,No hotel found
+tindouf,DZ,27.6711,-8.1474,63,محمد بوسبي
+hargeysa,SO,9.56,44.065,54,No hotel found
+keetmanshoop,,-26.5833,18.1333,49,Canyon Hotel
+kailua-kona,US,19.6406,-155.9956,83,Kona Seaside Hotel
+sebezh,RU,56.2955,28.4654,95,Прибалтийский
+los frentones,AR,-26.4077,-61.4137,73,No hotel found
+temiskaming shores,CA,47.4938,-79.7153,87,Waterfront Inn
+canillo,AD,42.5833,1.6667,75,Hotel Roc de Sant Miquel
+bamboo flat,IN,11.7,92.7167,83,Hotel Megapode Nest
+okeechobee,US,27.2439,-80.8298,84,Holiday Inn Express & Suites Lake Okeechobee
+viedma,AR,-40.8135,-62.9967,67,Níjar
+puerto lempira,HN,15.2667,-83.7667,90,Hotel Samaritano
+crieff,GB,56.3727,-3.8389,99,Tower Hotel
+malya,TZ,-2.9833,33.5167,65,No hotel found
+baruun-urt,MN,46.6806,113.2792,54,No hotel found
+aswan,EG,24.0934,32.907,22,Yaseen hotel
+bandarbeyla,SO,9.4942,50.8122,72,No hotel found
+mariinsk,RU,56.2139,87.7472,64,Фараон
+wotho,MH,10.1657,166.0102,78,No hotel found
+tarnogskiy gorodok,RU,60.4997,43.5761,66,Русь
+cova figueira,CV,14.8905,-24.2934,79,No hotel found
+bac lieu,VN,9.285,105.7244,75,Khách sạn Bạc Liêu
+richards bay,ZA,-28.783,32.0377,91,Bon Hotel Waterfront
+filadelfia,US,39.9523,-75.1638,65,"The Ritz-Carlton, Philadelphia"
+biltine,TD,14.5333,20.9167,28,فندق ثلاث نجوم بلتن
+chibougamau,CA,49.9168,-74.3659,69,No hotel found
+rockport,US,28.0206,-97.0544,92,Holiday Inn Express & Suites
+kourou,GF,5.1552,-52.6478,87,SCI Horizon
+callao,PE,-12.0667,-77.15,73,Casa Ronald
+abepura,ID,-2.6333,140.5833,78,Yoyo
+panacan,PH,9.2463,118.4082,73,Gorayan Lodge
+vila franca do campo,PT,37.7167,-25.4333,94,Vinha d'Areia Beach Hotel
+kearney,US,40.6995,-99.0815,54,Days Inn
+wulingyuan,CN,29.3494,110.5441,99,张家界武陵居客栈
+nouadhibou,MR,20.931,-17.0347,78,Hotel valencia
+colima,MX,19.1667,-104.0,68,No hotel found
+dudhi,IN,24.2167,83.25,28,No hotel found
+lerwick,GB,60.1545,-1.1494,93,Grand Hotel
+tobelo,ID,1.7284,128.0095,76,JJ Guesthouse
+lubuklinggau,ID,-3.3,102.8667,79,Cozy Style
+chimbote,PE,-9.0853,-78.5783,83,Hostal Diamante Chimbote
+port moresby,PG,-9.4431,147.1797,58,The Sanctuary Hotel and Spa
+hermantown,US,46.8069,-92.2383,84,"Holiday Inn Express & Suites Duluth North - Miller Hill, an IHG Hotel"
+batangafo,CF,7.3008,18.2833,97,No hotel found
+janoshalma,HU,46.2986,19.3258,78,No hotel found
+mopti,ML,14.6667,-4.0,33,No hotel found
+taulaga,AS,-11.0553,-171.0883,70,No hotel found
+greymouth,NZ,-42.4667,171.2,66,Recreation Hotel
+ariquemes,BR,-9.9133,-63.0408,84,Aquarius
+vilyuysk,RU,63.7553,121.6247,45,Мария
+yuscaran,HN,13.9333,-86.85,96,Hotel Yuscarán
+zaza del medio,CU,21.9961,-79.3669,89,Islazul Villa Los Laureles
+al kharijah,EG,25.4514,30.5464,29,Kharga Hotel
+popondetta,PG,-8.7537,148.2534,54,No hotel found
+lazaro cardenas,MX,17.9583,-102.2,81,Hotel Sol del Pacífico
+grand falls-windsor,CA,48.9332,-55.6649,91,Hotel Robin Hood
